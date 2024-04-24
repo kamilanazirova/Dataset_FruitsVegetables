@@ -34,6 +34,4 @@ Fruits and Vegetables Recognition System
     - Adding controls (sliders, buttons, text fields, etc.) for entering user data
     - Visualization of the results of the model (graphs, tables, etc.)
 
- Made by: Liliya Vasilova, Leysan Mukhamedyanova, Kamila Nazirova, Ulyana Khamidullina
-
- 
+ Made by: Liliya Vasilova, Lyaisan Mukhanedyanova, Kamila Nazirova, Ulyana Khamidullina
