@@ -35,3 +35,6 @@ Fruits and Vegetables Recognition System
     - Visualization of the results of the model (graphs, tables, etc.)
 
  Made by: Liliya Vasilova, Lyaisan Mukhanedyanova, Kamila Nazirova, Ulyana Khamidullina
+
+## Links
+[Dataset](https://www.kaggle.com/datasets/moltean/fruits)
