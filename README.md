@@ -1,5 +1,5 @@
 # FruitsVegetables
-Fruits and Vegetables Recognition System
+The project is a telegram bot for recognizing fruits and vegetables.
 
 ![image](https://domf5oio6qrcr.cloudfront.net/medialibrary/11499/3b360279-8b43-40f3-9b11-604749128187.jpg)
 
@@ -34,7 +34,26 @@ Fruits and Vegetables Recognition System
     - Adding controls (sliders, buttons, text fields, etc.) for entering user data
     - Visualization of the results of the model (graphs, tables, etc.)
 
- Made by: Liliya Vasilova, Lyaisan Mukhanedyanova, Kamila Nazirova, Ulyana Khamidullina
+ ### Project participants: 
+ Liliya Vasilova, 
+ Lyaisan Mukhanedyanova, Kamila Nazirova, Ulyana Khamidullina
 
-## Links
+# List of libraries used
+    import torch
+    from torch import nn, optim
+    from torch.utils.data import DataLoader
+    from torchvision import datasets, transforms
+    from clearml import Task, Logger
+    import matplotlib.pyplot as plt
+    from tqdm import tqdm
+    import os
+    import time
+    import rembg
+    from efficientnet_pytorch import EfficientNet
+    import torchvision.models as models
+    import torch.nn as nn
+    from torchmetrics import Precision, Recall, F1Score
+    import torch.optim.lr_scheduler as lr_scheduler
+
+# Links
 [Dataset](https://www.kaggle.com/datasets/moltean/fruits)
