@@ -56,4 +56,5 @@ The project is a telegram bot for recognizing fruits and vegetables.
     import torch.optim.lr_scheduler as lr_scheduler
 
 # Links
+[ClearMl](https://app.clear.ml/projects/523ccba1903b47fa915ebefc7b7e3fd6/experiments/e7fb800483704c8fb94b8da31e234df9/output/execution)
 [Dataset](https://www.kaggle.com/datasets/moltean/fruits)
